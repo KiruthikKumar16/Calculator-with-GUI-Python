@@ -5,7 +5,6 @@ Install Tkinter: Ensure that Tkinter is installed. It's usually included with Py
 pip install tk
 
 
-Save the Code: Save the code in a file named scientific_calculator.py.
 
 Run the Program: Execute the script by running:
 
